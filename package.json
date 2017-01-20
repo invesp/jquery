@@ -54,8 +54,7 @@
   "scripts": {
     "build": "npm install && grunt",
     "start": "grunt watch",
-    "test": "grunt && grunt test",
-    "buildCustom": "grunt custom:-wrap,-offset,-event/alias,-effects,-deprecated,-ajax/jsonp,-ajax/script"
+    "test": "grunt && grunt test"
   },
   "commitplease": {
     "components": [
