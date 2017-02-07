@@ -1,3 +1,5 @@
+**FigPii custom build readme - [check here](README_CUSTOM.md)**
+
 [jQuery](http://jquery.com/) — New Wave JavaScript
 ==================================================
 
