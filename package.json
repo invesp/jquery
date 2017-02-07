@@ -54,7 +54,8 @@
   "scripts": {
     "build": "npm install && grunt",
     "start": "grunt watch",
-    "test": "grunt && grunt test"
+    "test": "grunt && grunt test",
+    "buildCustom": "npm install && grunt custom --amd='fjq'"
   },
   "commitplease": {
     "components": [
